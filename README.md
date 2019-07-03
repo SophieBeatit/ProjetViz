@@ -3,5 +3,5 @@
 ### Hello
 ```SQL
 SELECT * FROM GIT No LIMIT;
-```SQL
+```
 
